@@ -1,3 +1,5 @@
+![pwgen](https://github.com/tahabisginsoftware/pwgen/blob/master/public/github%20cover.png "pwgen")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -41,7 +41,7 @@ function App() {
         </div>
         <a
           className="App-link"
-          href="https://tahabisginsoftware.com"
+          href="https://tbsvsn.com"
           target="_blank"
           rel="noopener noreferrer"
         >
